@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fatema</h1>
 
 <p align="center">
-Student of Software Engineering at Shahjalal University of Science and Technology (SUST) | Web Developer | Data Structure & Algorithm Enthusiast | Lifelong Learner
+Student of Software Engineering at Shahjalal University of Science and Technology (SUST) |  Lifelong Learner
 </p>
 
 <p align="center">
