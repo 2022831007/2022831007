@@ -1,22 +1,29 @@
-<h1 align="center">Hi 👋, I'm Fatema</h1>
+<h1 align="center">Assalamu Alaikum 👋, I'm Fatema</h1>
 
 <p align="center">
-Student of Software Engineering at Shahjalal University of Science and Technology (SUST) |  Lifelong Learner
+🎓 Student of <b>Software Engineering</b> at <b>Shahjalal University of Science and Technology (SUST)</b> <br/>
+🌱 Lifelong Learner
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/79/9f/10/799f10aae113e34c771066f2a317efe3.gif" alt="Coding Girl" width="400"/>
+  <img src="https://i.pinimg.com/originals/79/9f/10/799f10aae113e34c771066f2a317efe3.gif" alt="Cat Coding" width="400"/>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
-
-- 🎓 I’m a student of **Software Engineering** at **Shahjalal University of Science and Technology (SUST)**, Bangladesh  
-- 💻 I enjoy building web projects and diving into new technologies  
+- 🎓 I’m a student of **Software Engineering** at **SUST**, Bangladesh  
+- 💻 I enjoy building web projects and exploring new technologies  
 - 📚 Currently learning: **HTML, CSS, C, C++, Java, JavaScript, OOP, Git, VS Code**  
-- 🎯 Future goal: Become a **Full-Stack Web Developer**
+- 🎯 Future goal: Become a **Full-Stack Web Developer**  
 - 📍 Based in **Sylhet, Bangladesh**
+
+---
+
+### 📫 Contact Me
+- 📧 **Email:** [fatema53688@gmail.com](mailto:fatema53688@gmail.com)  
+- 🌐 **Facebook:** [Fatema Fatema](https://www.facebook.com/fatema.fatema.741481/)  
+- 📸 **Instagram:** [@i.am.fatemaa](https://www.instagram.com/i.am.fatemaa/)  
 
 ---
 
@@ -35,7 +42,7 @@ Student of Software Engineering at Shahjalal University of Science and Technolog
 ---
 
 ### ✨ GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=2022831007&show_icons=true&theme=radical" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2022831007&layout=compact&theme=radical" width="45%">
 </p>
@@ -43,27 +50,17 @@ Student of Software Engineering at Shahjalal University of Science and Technolog
 ---
 
 ### 🌙 Favorite Islamic Quotes
-
 > **“Indeed, Allah is with those who are patient.”**  
-> — *Surah Al-Baqarah (2:153)*
+> — *Surah Al-Baqarah (2:153)*  
 
 > **“So remember Me; I will remember you.”**  
-> — *Surah Al-Baqarah (2:152)*
+> — *Surah Al-Baqarah (2:152)*  
 
 > **“And He found you lost and guided [you].”**  
-> — *Surah Ad-Duhaa (93:7)*
+> — *Surah Ad-Duhaa (93:7)*  
 
 > **“Put your trust in Allah. Indeed, Allah loves those who rely [upon Him].”**  
-> — *Surah Al-Imran (3:159)*
+> — *Surah Al-Imran (3:159)*  
 
 > **“Verily, with hardship comes ease.”**  
-> — *Surah Ash-Sharh (94:6)*
-
----
-
-### 📫 Contact Me
-
-- 💬 Feel free to connect or reach out for collaboration!
-- 📧 **Email:** [fatema53688@gmail.com](mailto:fatema53688@gmail.com)
-- 🌐 **Facebook:** [Fatema Fatema](https://www.facebook.com/fatema.fatema.741481/)
-- 📸 **Instagram:** [@i.am.fatemaa](https://www.instagram.com/i.am.fatemaa/)
+> — *Surah Ash-Sharh (94:6)*  
