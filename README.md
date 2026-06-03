@@ -14,7 +14,7 @@
 ### 👩‍💻 About Me
 - 🎓 I’m a student of **Software Engineering** at **SUST**, Bangladesh  
 - 💻 I enjoy building web projects and exploring new technologies  
-- 📚 Currently learning: **HTML, CSS, C, C++, Java, JavaScript, OOP, Git, VS Code**  
+- 📚 Currently learning: **HTML, CSS, C, C++, Java, JavaScript,Nodejs,Expressjs,Reactjs,Mysql,Python OOP, Git, VS Code**  
 - 🎯 Future goal: Become a **Full-Stack Web Developer**  
 - 📍 Based in **Sylhet, Bangladesh**
 
@@ -60,11 +60,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### ✨ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2022831007&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2022831007&layout=compact&theme=radical" width="45%">
-</p>
 
 ---
 
