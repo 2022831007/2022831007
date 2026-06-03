@@ -14,7 +14,7 @@
 ### 👩‍💻 About Me
 - 🎓 I’m a student of **Software Engineering** at **SUST**, Bangladesh  
 - 💻 I enjoy building web projects and exploring new technologies  
-- 📚 Currently learning: **HTML, CSS, C, C++, Java, JavaScript,Nodejs,Expressjs,Reactjs,Mysql,Python OOP, Git, VS Code**  
+- 📚 Currently learning: **HTML, CSS, C, C++, Java, JavaScript,Nodejs,Expressjs,Reactjs,Mysql,Python, Java OOP, Git, VS Code**  
 - 🎯 Future goal: Become a **Full-Stack Web Developer**  
 - 📍 Based in **Sylhet, Bangladesh**
 
